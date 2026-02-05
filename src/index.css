@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+body {
+  background-color: #0B1320;
+}
+
+.principal {
+  font-family: 'Paytone One', sans-serif;
+}
+
+.titles {
+  font-family: "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+  
+.texts {
+  font-family: 'Inter', sans-serif;
+}
+
+
+
+
